@@ -1,0 +1,103 @@
+# depslib dependency file v1.0
+1555499561 source:c:\users\rapha\desktop\project\arete.cpp
+	"Arete.h"
+
+1555499561 c:\users\rapha\desktop\project\arete.h
+	<string>
+	<vector>
+	<iostream>
+
+1555499710 source:c:\users\rapha\desktop\project\graphe.cpp
+	<fstream>
+	<iostream>
+	"graphe.h"
+	"list"
+	"sommet.h"
+
+1555498358 c:\users\rapha\desktop\project\graphe.h
+	<string>
+	<unordered_map>
+	"sommet.h"
+	"Arete.h"
+	"Svgfile.h"
+
+1555498431 c:\users\rapha\desktop\project\sommet.h
+	<string>
+	<vector>
+	<unordered_map>
+	<unordered_set>
+
+1555498436 source:c:\users\rapha\desktop\project\main.cpp
+	<iostream>
+	"graphe.h"
+
+1555498431 source:c:\users\rapha\desktop\project\sommet.cpp
+	<iostream>
+	<queue>
+	<stack>
+	<unordered_map>
+	<unordered_set>
+	"sommet.h"
+
+1555498157 source:c:\users\rapha\desktop\project\svgfile.cpp
+	"svgfile.h"
+	<iostream>
+	<sstream>
+
+1555498158 c:\users\rapha\desktop\project\svgfile.h
+	<string>
+	<fstream>
+	<set>
+
+1555499561 source:c:\users\rapha\projet-semestre2\project\arete.cpp
+	"Arete.h"
+
+1555499561 c:\users\rapha\projet-semestre2\project\arete.h
+	<string>
+	<vector>
+	<iostream>
+
+1555601023 source:c:\users\rapha\projet-semestre2\project\main.cpp
+	<iostream>
+	"graphe.h"
+
+1555600101 c:\users\rapha\projet-semestre2\project\graphe.h
+	<string>
+	<unordered_map>
+	"sommet.h"
+	"Arete.h"
+	"Svgfile.h"
+
+1555596970 c:\users\rapha\projet-semestre2\project\sommet.h
+	<string>
+	<vector>
+	<unordered_map>
+	<unordered_set>
+
+1555498158 c:\users\rapha\projet-semestre2\project\svgfile.h
+	<string>
+	<fstream>
+	<set>
+
+1555596970 source:c:\users\rapha\projet-semestre2\project\sommet.cpp
+	<iostream>
+	<queue>
+	<stack>
+	<unordered_map>
+	<unordered_set>
+	"sommet.h"
+
+1555498157 source:c:\users\rapha\projet-semestre2\project\svgfile.cpp
+	"svgfile.h"
+	<iostream>
+	<sstream>
+
+1555600942 source:c:\users\rapha\projet-semestre2\project\graphe.cpp
+	<fstream>
+	<iostream>
+	"graphe.h"
+	"list"
+	"sommet.h"
+	<bitset>
+	"math.h"
+
